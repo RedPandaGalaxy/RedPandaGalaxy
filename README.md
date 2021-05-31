@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @RedPandaGalaxy
 
-- 👀 I’m interested in computers, technology and storytelling! Yes, I do love DnD ;)
+- 👀 I’m interested in computers, technology and storytelling! Yes, I do love DnD (and red pandas of course) ;)
 
-- 🌱 I’m currently learning generally understood "programming" - web development, game dev, embedded etc.
+- 🌱 I’m currently learning generally defined "programming" - web development, game dev, embedded etc.
+- As of now, it's web development turn :)
 
 - 💞️ I’m looking to collaborate on...interesting projects that include creativity, innovation and passionate, open-minded people :)
 
