@@ -2,11 +2,9 @@
 
 - 👀 I’m interested in computers, technology and storytelling! Yes, I do love DnD (and red pandas of course) ;)
 
-- 🌱 I’m currently learning generally defined "programming" - web development, game dev, embedded etc.
-- As of now, it's web development turn :)
+- 🌱 I’m currently learning generally defined "programming" - web development, game dev, java etc.
 
 - 💞️ I’m looking to collaborate on...interesting projects that include creativity, innovation and passionate, open-minded people :)
-
 
 - 📫 How to reach me via email -> vazir98@o2.pl
 
